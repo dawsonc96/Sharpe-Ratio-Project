@@ -6,3 +6,13 @@ An investment may make sense if we expect it to return more money than it costs.
 
 ## Visualize & summarize daily values for the S&P 500
 <p>Let's also take a closer look at the value of the S&amp;P 500, our benchmark.</p>
+
+## The inputs for the Sharpe Ratio: Starting with Daily Stock Returns
+<p>The Sharpe Ratio uses the difference in returns between the two investment opportunities under consideration.</p>
+<p>However, our data show the historical value of each investment, not the return. To calculate the return, we need to calculate the percentage change in value from one day to the next. We'll also take a look at the summary statistics because these will become our inputs as we calculate the Sharpe Ratio. Can you already guess the result?</p>
+
+## Daily S&P 500 returns
+<p>For the S&amp;P 500, calculating daily returns works just the same way, we just need to make sure we select it as a <code>Series</code> using single brackets <code>[]</code> and not as a <code>DataFrame</code> to facilitate the calculations in the next step.</p>
+
+## Calculating Excess Returns for Amazon and Facebook vs. S&P 500
+<p>Next, we need to calculate the relative performance of stocks vs. the S&amp;P 500 benchmark. This is calculated as the difference in returns between <code>stock_returns</code> and <code>sp_returns</code> for each day.</p>

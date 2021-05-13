@@ -1,4 +1,4 @@
-![Image of Amazon](https://images-na.ssl-images-amazon.com/images/I/31%2BDgxPWXtL.jpg)
+![Image of Amazon Vs Facebook](https://i2.wp.com/www.tekedia.com/wp-content/uploads/2020/05/facebook-Google-amazon.jpg?resize=768%2C356&ssl=1)
 
 # Sharpe Ratio Project
 An investment may make sense if we expect it to return more money than it costs. But returns are only part of the story because they are risky - there may be a range of possible outcomes. How does one compare different investments that may deliver similar results on average, but exhibit different levels of risks?

@@ -69,4 +69,6 @@ An investment may make sense if we expect it to return more money than it costs.
 <p>This difference was mostly driven by differences in return rather than risk between Amazon and Facebook. The risk of choosing Amazon over FB (as measured by the standard deviation) was only slightly higher so that the higher Sharpe ratio for Amazon ends up higher mainly due to the higher average daily returns for Amazon. </p>
 <p>When faced with investment alternatives that offer both different returns and risks, the Sharpe Ratio helps to make a decision by adjusting the returns by the differences in risk and allows an investor to compare investment opportunities on equal terms, that is, on an 'apples-to-apples' basis.</p>
 
-![Image of Amazon](https://images-na.ssl-images-amazon.com/images/I/31%2BDgxPWXtL.jpg)
+<p align="center">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/31%2BDgxPWXtL.jpg" />
+</p>

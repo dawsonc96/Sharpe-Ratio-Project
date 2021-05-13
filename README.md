@@ -34,5 +34,16 @@ An investment may make sense if we expect it to return more money than it costs.
 <p>Next, we need to calculate the relative performance of stocks vs. the S&amp;P 500 benchmark. This is calculated as the difference in returns between <code>stock_returns</code> and <code>sp_returns</code> for each day.</p>
 
 <p align="center">
- <img width="550" height="350" src=images/amazon_facebook_daily_vs_sp60.png>
+ <img width="550" height="350" src=images/amazon_facebook_daily_vs_sp500.png>
  </p>
+
+## The Sharpe Ratio, Step 1: The Average Difference in Daily Returns Stocks vs S&P 500
+<p>Now we can finally start computing the Sharpe Ratio. First we need to calculate the average of the <code>excess_returns</code>. This tells us how much more or less the investment yields per day compared to the benchmark.</p>
+
+<p align="center">
+ <img width="550" height="350" src=images/mean_of_return_diff.png>
+ </p>
+ 
+## The Sharpe Ratio, Step 2: Standard Deviation of the Return Difference
+<p>It looks like there was quite a bit of a difference between average daily returns for Amazon and Facebook.</p>
+<p>Next, we calculate the standard deviation of the <code>excess_returns</code>. This shows us the amount of risk an investment in the stocks implies as compared to an investment in the S&amp;P 500.</p>

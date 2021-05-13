@@ -1,5 +1,5 @@
 <p align="center">
-  <src="https://i2.wp.com/www.tekedia.com/wp-content/uploads/2020/05/facebook-Google-amazon.jpg?resize=768%2C356&ssl=1">
+  <img src="https://i2.wp.com/www.tekedia.com/wp-content/uploads/2020/05/facebook-Google-amazon.jpg?resize=768%2C356&ssl=1">
 </p>
 
 # Sharpe Ratio Project
